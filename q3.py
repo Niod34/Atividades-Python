@@ -1,11 +1,11 @@
-numero1 = int(input("Digite o primeiro número: "))
+numero1 = int(input("Digite a primeira nota: "))
 
-numero2 = int(input("Digite o segundo número: "))
+numero2 = int(input("Digite a segunda nota: "))
 
-numero3 = int(input("Digite o terceiro número: "))
+numero3 = int(input("Digite a terceira nota: "))
 
 
 media = (numero1 + numero2 + numero3)/3
 
 # Exibe o resultado
-print("A media dos números é:", media)
+print("A media das notas é:", media)
